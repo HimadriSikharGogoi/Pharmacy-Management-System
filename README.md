@@ -4,7 +4,7 @@ The application uses Tkinter. Tkinter is Python's de-facto standard GUI (Graphic
 
 Dependencies used:
 1.	from tkinter import * : Importing library.
-2.	import messagebox : To create and display messagebox.
+2.	from tkinter import messagebox : To create and display messagebox.
 3.	import os : To create and edit files.
 
 Methods Used:
