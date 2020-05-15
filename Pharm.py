@@ -67,7 +67,7 @@ def recordsname():
 def recordsphone():
     print("Checking records...")
     s = 0
-    search = namevalue.get()
+    search = phonevalue.get()
     with open("records.txt", 'r') as f:
         for line in f:
             if search in line:
